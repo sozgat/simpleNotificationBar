@@ -21,9 +21,6 @@ class Simple_Notification_Bar_PS {
         add_action('wp_head', array( $this, 'simple_notification_display_styles' ));
         add_action('wp_footer', array($this, 'simple_notification_display_html' ));
 
-        //add_action( 'admin_menu', array( $this, 'add_menu_admin_panel' ) );
-        //add_action( 'admin_init', array( $this, 'simple_notification_bar_register_options' ) );
-
     }
 
     function simple_notification_display_html(){
