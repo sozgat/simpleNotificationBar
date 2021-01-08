@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Simple Notification Bar
- * Plugin URI: https://parlaksoft.com
+ * Plugin URI: https://github.com/sozgat/simpleNotificationBar/releases/tag/v1.0.0
  * Description: Create Notification Bar for Header and Footer
  * Author: Parlak Soft
  * Author URI: https://parlaksoft.com
