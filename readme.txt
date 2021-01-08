@@ -21,7 +21,9 @@ Our Features:
 *   7/24 Support
 
 == Screenshots ==
-
+1. Settings Page screenshot1.png
+2. Header Area screenshot2.png
+2. Footer Area screenshot3.png
 
 == Changelog ==
 
