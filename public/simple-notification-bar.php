@@ -29,11 +29,11 @@ class Simple_Notification_Bar_PS {
         $simple_noti_footer_text_ps = get_option('simple_noti_footer_text_ps');
 
         $header_content = '<div id="simple-noti-header">
-                        <p>' . sanitize_text_field($simple_noti_header_text_ps). '</p>
+                        <p>' . $simple_noti_header_text_ps . '</p>
                         </div>';
 
         $footer_content = '<div id="simple-noti-footer">
-                        <p>' . sanitize_text_field($simple_noti_footer_text_ps) . '</p>
+                        <p>' . $simple_noti_footer_text_ps . '</p>
                         </div>';
 
         echo $header_content . $footer_content;

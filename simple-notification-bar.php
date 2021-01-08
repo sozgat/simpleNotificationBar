@@ -7,7 +7,7 @@
  * Author URI: https://parlaksoft.com
  * Version: 1.0.0
  * Text Domain: Parlak Soft Wordpress
- * WC requires at least: 3.6
+ * WC requires at least: 4.7
  * WC tested up to: 5.6.0
  */
 
